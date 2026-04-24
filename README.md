@@ -33,6 +33,9 @@ pip install -r requirements.txt
 
 ---
 
+## Note
+
+
 ## How to Run:
 
 ```bash
@@ -44,6 +47,7 @@ python main.py
 ## Tested on:
 
 Windows 11 (python 3.11)
+Linux (Lubuntu)
 
 ---
 

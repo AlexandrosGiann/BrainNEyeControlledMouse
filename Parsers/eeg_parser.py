@@ -2,6 +2,7 @@ from Models.eeg_state import EEGState
 from typing import Optional
 import serial
 import time
+from config import *
 
 # =========================================================
 # EEG PARSER
