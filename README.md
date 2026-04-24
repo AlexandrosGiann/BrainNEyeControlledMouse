@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ---
 
 ## Note
-
+On linux you need to change the PORT in config.py
 
 ## How to Run:
 
